@@ -1,0 +1,49 @@
+﻿@model Api_Crud.Models.Medidor
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<h4>Medidor</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="MedidorId" />
+            <div class="form-group">
+                <label asp-for="MedidorTipo" class="control-label"></label>
+                <input asp-for="MedidorTipo" class="form-control" />
+                <span asp-validation-for="MedidorTipo" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="MedidorStatus" class="control-label"></label>
+                <input asp-for="MedidorStatus" class="form-control" />
+                <span asp-validation-for="MedidorStatus" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="SerialNumber" class="control-label"></label>
+                <input asp-for="SerialNumber" class="form-control" />
+                <span asp-validation-for="SerialNumber" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="MedidorConsumo" class="control-label"></label>
+                <input asp-for="MedidorConsumo" class="form-control" />
+                <span asp-validation-for="MedidorConsumo" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
