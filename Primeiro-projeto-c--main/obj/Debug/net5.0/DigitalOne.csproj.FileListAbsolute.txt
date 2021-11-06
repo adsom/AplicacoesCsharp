@@ -1,0 +1,16 @@
+C:\Users\adsom\DigitalOne\bin\Debug\net5.0\DigitalOne.exe
+C:\Users\adsom\DigitalOne\bin\Debug\net5.0\DigitalOne.deps.json
+C:\Users\adsom\DigitalOne\bin\Debug\net5.0\DigitalOne.runtimeconfig.json
+C:\Users\adsom\DigitalOne\bin\Debug\net5.0\DigitalOne.runtimeconfig.dev.json
+C:\Users\adsom\DigitalOne\bin\Debug\net5.0\DigitalOne.dll
+C:\Users\adsom\DigitalOne\bin\Debug\net5.0\ref\DigitalOne.dll
+C:\Users\adsom\DigitalOne\bin\Debug\net5.0\DigitalOne.pdb
+C:\Users\adsom\DigitalOne\obj\Debug\net5.0\DigitalOne.csprojAssemblyReference.cache
+C:\Users\adsom\DigitalOne\obj\Debug\net5.0\DigitalOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adsom\DigitalOne\obj\Debug\net5.0\DigitalOne.AssemblyInfoInputs.cache
+C:\Users\adsom\DigitalOne\obj\Debug\net5.0\DigitalOne.AssemblyInfo.cs
+C:\Users\adsom\DigitalOne\obj\Debug\net5.0\DigitalOne.csproj.CoreCompileInputs.cache
+C:\Users\adsom\DigitalOne\obj\Debug\net5.0\DigitalOne.dll
+C:\Users\adsom\DigitalOne\obj\Debug\net5.0\ref\DigitalOne.dll
+C:\Users\adsom\DigitalOne\obj\Debug\net5.0\DigitalOne.pdb
+C:\Users\adsom\DigitalOne\obj\Debug\net5.0\DigitalOne.genruntimeconfig.cache
